@@ -5,13 +5,13 @@
 
 	<div  class="container">
 	
-		<h3> <div class="navbar-header">
+		<h4> <div class="navbar-header">
 
 		
 		
 		<ol class="nav navbar-nav">
 			<li><a href="?controller=login&accion=Index"><span class="glyphicon glyphicon-home"></span> INICIO</a></li>
-			
+			<li><a href="?controller=login&accion=productos"><span class="glyphicon glyphicon-pencil"></span> PRODUCTOS </a></li>
 			<li><a href="?controller=login&accion=QuienesSomos"><span class="glyphicon glyphicon-fire"></span> ¿QUIENES SOMOS? </a></li>
 			<li><a href="?controller=login&accion=Contantenos"><span class="glyphicon glyphicon-pencil"></span> CONTACTENOS </a></li>
 			<li class="dropdown">
